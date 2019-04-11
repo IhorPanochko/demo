@@ -1,0 +1,31 @@
+INSERT INTO user VALUES (1, 11, 'Ihor');
+INSERT INTO user VALUES (2, 22, 'Petro');
+INSERT INTO user VALUES (3, 33, 'Ivan');
+INSERT INTO user VALUES (4, 44, 'Stepan');
+INSERT INTO user VALUES (5, 55, 'Tramp');
+INSERT INTO user VALUES (6,66, 'Petia');
+INSERT INTO user VALUES (7, 77, 'Ihor');
+INSERT INTO user VALUES (8, 88, 'Ira');
+INSERT INTO user VALUES (9,99, 'Donald');
+INSERT INTO user VALUES (10, 101, 'Ihor');
+
+
+INSERT INTO article VALUES (1 ,  'red' ,  'text1' , 1 ) ;
+INSERT INTO article VALUES (2 ,  'blue' ,  'text1' , 1 ) ;
+INSERT INTO article VALUES (3 ,  'green' ,  'text1' , 1 ) ;
+INSERT INTO article VALUES (4 ,  'yellow' ,  'text1' , 2 ) ;
+INSERT INTO article VALUES (5 ,  'red' ,  'text1' , 3) ;
+INSERT INTO article VALUES (6 ,  'blue' ,  'text1' , 4 ) ;
+INSERT INTO article VALUES (7 ,  'green' ,  'text1' , 5 ) ;
+INSERT INTO article VALUES (8 ,  'red' ,  'text1' , 6 ) ;
+INSERT INTO article VALUES (9 ,  'black' ,  'text1' , 7 ) ;
+INSERT INTO article VALUES (10 ,  'yellow' ,  'text1' , 8 ) ;
+INSERT INTO article VALUES (11 ,  'white' ,  'text1' , 10 ) ;
+INSERT INTO article VALUES (12 ,  'green' ,  'text1' , 9 ) ;
+INSERT INTO article VALUES (13 ,  'red' ,  'text1' , 4 ) ;
+INSERT INTO article VALUES (14 ,  'white' ,  'text1' , 7) ;
+INSERT INTO article VALUES (15 ,  'red' ,  'text1' , 3 ) ;
+INSERT INTO article VALUES (16,  'red' ,  'text1' , 9) ;
+INSERT INTO article VALUES (17 ,  'yellow' ,  'text1' , 1 ) ;
+INSERT INTO article VALUES (18 ,  'black' ,  'text1' , 6 ) ;
+INSERT INTO article VALUES (19 ,  'red' ,  'text1' , 8 ) ;
